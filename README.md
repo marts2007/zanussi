@@ -3,7 +3,8 @@ Currently works with ZACS/I-09 HV/A18/N1 (BroadLink_OEM wifi module)<br>
 put zanussi folder to config/custom_components/ <br>
 add configuration option to configuration.yaml
 
-```climate:
+```
+  climate:
   - platform: zanussi
     name: Some name here
     unique_id: some_uniq_name
