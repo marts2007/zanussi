@@ -9,7 +9,7 @@ add configuration option to configuration.yaml
     unique_id: some_uniq_name
     host: ip_address_here
     temperature_sensor: some_external_temp_sensor
-    device_code: 0```
-
+    device_code: 0 
+```
 
 Based on SmartIR project https://github.com/smartHomeHub/SmartIR
