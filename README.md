@@ -1,7 +1,6 @@
 # ZANUSSI Home Assistant component
 Currently works with ZACS/I-09 HV/A18/N1<br>
 put zanussi folder to config/custom_components/ <br>
-
 add configuration option to configuration.yaml
 
 ```climate:
