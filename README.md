@@ -1,5 +1,5 @@
 # ZANUSSI Home Assistant component
-Currently works with ZACS/I-09 HV/A18/N1<br>
+Currently works with ZACS/I-09 HV/A18/N1 (BroadLink_OEM wifi module)<br>
 put zanussi folder to config/custom_components/ <br>
 add configuration option to configuration.yaml
 
@@ -12,4 +12,5 @@ add configuration option to configuration.yaml
     device_code: 0 
 ```
 
-Based on SmartIR project https://github.com/smartHomeHub/SmartIR
+Based on SmartIR project https://github.com/smartHomeHub/SmartIR<br>
+
