@@ -218,7 +218,6 @@ class ZanussiAC(ClimateDevice, RestoreEntity):
         
     async def async_set_temperature(self, **kwargs):
         """Set new target temperatures."""
-        _LOGGER.warning('async_set_temperature') 
         hvac_mode = kwargs.get(ATTR_HVAC_MODE)  
         temperature = kwargs.get(ATTR_TEMPERATURE)
         
